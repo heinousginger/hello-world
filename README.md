@@ -1,2 +1,2 @@
 # hello-world
-starting a boost to learn to learn - rwxrob
+starting a boost from rwxrob, My goal is to learn more about data communication protocols, such as bacnet, through coding
